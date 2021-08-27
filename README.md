@@ -1,1 +1,1 @@
-# djangodarslarim
+yangi darslar uchun
